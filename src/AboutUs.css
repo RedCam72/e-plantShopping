@@ -1,27 +1,29 @@
 .about-us-container {
-    width: 1000px;
-    /* margin: 0 auto; */
+    width: 900px;
+    margin: 0 auto;
+    margin-left: 30px;
+    padding-left: 20px;
     /* padding: 20px; */
     /* background-color: red; */
     text-align: justify;
   }
   
   .about-us-heading {
-    font-size: 32px;
+    font-size: 30px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
   
   .about-us-description {
-    font-size: 18px;
+    font-size: 16px;
     color: #666;
     margin-bottom: 30px;
     text-align: center;
   }
   
   .about-us-content {
-    font-size: 18px;
+    font-size: 14px;
     margin-bottom: 20px;
   }
   .plant_logo_right{
